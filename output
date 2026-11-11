@@ -1,0 +1,44 @@
+HOSTEL ROOM ALLOCATION SYSTEM
+
+--- Available Rooms ---
+Room 101 Vacant Beds: 2
+Room 102 Vacant Beds: 3
+Room 103 Vacant Beds: 2
+Room 104 Vacant Beds: 1
+Rahul allocated to room 101
+Priya allocated to room 101
+Aman allocated to room 102
+Sneha allocated to room 103
+Invalid room number.
+Student already allocated.
+
+--- Hostel Occupancy Report ---
+
+Room: 101
+Capacity: 2
+Occupied: 2
+Vacant: 0
+Students: ['Rahul', 'Priya']
+
+Room: 102
+Capacity: 3
+Occupied: 1
+Vacant: 2
+Students: ['Aman']
+
+Room: 103
+Capacity: 2
+Occupied: 1
+Vacant: 1
+Students: ['Sneha']
+
+Room: 104
+Capacity: 1
+Occupied: 0
+Vacant: 1
+Students: []
+
+Total Capacity: 8
+Total Occupied: 4
+Total Vacant: 4
+PS C:\Users\Siya Sood\OneDrive\Desktop\hostel project> 
