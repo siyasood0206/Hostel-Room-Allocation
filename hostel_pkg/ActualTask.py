@@ -6,7 +6,7 @@ rooms = {
     104: {"capacity": 1, "students": []}
 }
 def check_vacancy():
-    print("\n--- Available Rooms ---")
+    print("\nAvailable Rooms")
 
     for room, details in rooms.items():
         vacant = details["capacity"] - len(details["students"])
@@ -31,7 +31,7 @@ def allocate_room(student_name, room_number):
     else:
         print("Room is full!")
 def occupancy_report():
-    print("\n--- Hostel Occupancy Report ---")
+    print("\nHostel Occupancy Report")
     total_capacity = 0
     total_occupied = 0
     for room, details in rooms.items():
