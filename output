@@ -1,6 +1,6 @@
 HOSTEL ROOM ALLOCATION SYSTEM
 
---- Available Rooms ---
+   Available Rooms 
 Room 101 Vacant Beds: 2
 Room 102 Vacant Beds: 3
 Room 103 Vacant Beds: 2
@@ -12,7 +12,7 @@ Sneha allocated to room 103
 Invalid room number.
 Student already allocated.
 
---- Hostel Occupancy Report ---
+     Hostel Occupancy Report 
 
 Room: 101
 Capacity: 2
